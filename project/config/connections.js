@@ -42,10 +42,10 @@ module.exports.connections = {
   ***************************************************************************/
   // someMysqlServer: {
   //   adapter: 'sails-mysql',
-  //   host: 'YOUR_MYSQL_SERVER_HOSTNAME_OR_IP_ADDRESS',
-  //   user: 'YOUR_MYSQL_USER', //optional
-  //   password: 'YOUR_MYSQL_PASSWORD', //optional
-  //   database: 'YOUR_MYSQL_DB' //optional
+  //   host: '91bd0144-cada-46f9-b31e-a793011a3edc.mysql.sequelizer.com',
+  //   user: 'zjreetdnqssqhvde', //optional
+  //   password: 'M7AoCyzc3wfM8B3gtXDW26mR4QgPEizrCuxxNXCD6NqVPCFmXLuCutqQTStVrSET', //optional
+  //   database: 'db91bd0144cada46f9b31ea793011a3edc' //optional
   // },
 
   /***************************************************************************
